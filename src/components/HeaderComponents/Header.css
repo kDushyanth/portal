@@ -1,0 +1,18 @@
+/* All styles for your header Components live here */
+.header-container{
+    max-width: 500px;
+    display: flex;
+    flex-direction: row;
+    border:1px solid black;
+    border-bottom:0px solid white;
+}
+
+.header-1 > div > img{
+    width: 128px;
+    height: 128px;
+    margin-right: 3px;
+}
+.header-2>div{
+    margin-bottom: 5px;
+    padding-top: 3px;
+}
